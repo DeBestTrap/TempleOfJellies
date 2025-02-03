@@ -1,0 +1,5 @@
+- Name: TempleOfJellies
+  Version: 0.0.1
+  Dependencies:
+    - Name: Everest
+      Version: 1.5285.0 
